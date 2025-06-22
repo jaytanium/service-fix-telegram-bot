@@ -1,0 +1,28 @@
+# Sensitive information
+.env
+
+# Database files
+*.db
+*.db-shm
+*.db-wal
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
